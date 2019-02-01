@@ -2,7 +2,7 @@
 - python slidingpuzzle.py
 
 # Python Version[Tested]
-- Python3.6
+- Python 3.7.1
 
 # Packages
 - pygame
